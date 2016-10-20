@@ -1,6 +1,6 @@
-# proyecto-iv
+## Eduardo Sánchez Sánchez
 
-Ejercicio 1:
+#Ejercicio 1:
 
 Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. Consultar este artículo en Infoautónomos sobre el tema.
 
@@ -20,7 +20,7 @@ Amortización a 7 años: (14.28 % cada año , y el último año 14.32 % ) .
 
 Los 6 primeros años : 86,034144 € / año El 7 año : 86,275136 €.
 
-Ejercicio 2:
+#Ejercicio 2:
 
 Como servidor VPS he escogido uno arsys, Servidor VPS Linux S Las características del mismo son : 4 GB de RAM ,100 GB de Disco Duro. El precio es de 60€/mes ó 648€/año (10% de descuento).
 
@@ -33,7 +33,7 @@ Vamos a calcular el coste durante un año con un porcentaje de utilización del 
 **El 10% son 876 horas. Por lo tanto: En el primer caso: Son 36.5 días, el precio sería de 60x2 , 120€, ya que sería dos meses. En el segundo caso : El precio sería de 100,39 €.
 
 
-Ejercicio 4:
+#Ejercicio 4:
 
 Comprobar si el procesador o procesadores instalados tienen estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden?
 
@@ -41,7 +41,7 @@ Debemos ejecutar la siguiente orden : egrep '^flags.*(vmx|svm)' /proc/cpuinfo. P
 
 Ejecución
 
-Ejercicio 5:
+#Ejercicio 5:
 
 Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. No me funciona la orden kvm-ok. Previamente he instalado el paquete cpu-checker pero no me funciona. Lo volveré a intentar.
 
