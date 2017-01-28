@@ -1,6 +1,6 @@
 ##Ejercicios 1: Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
 El lenguaje de programacion que he elegido ha sido python, por lo que he instalado virtualenv:
-![proceso instalación](/tema2/Captura1.png)
+![proceso instalación](/tema2/captura1.png)
 ![proceso instalación](/tema2/captura2.png)
 ![proceso instalación](/tema2/captura3.png)
 
